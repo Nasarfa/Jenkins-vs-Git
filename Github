@@ -1,9 +1,10 @@
-public class JenkinsExample {
+public class Github {
 
  public static void main(String[] args) {
  
     System.out.println("Hello Agni");
     System.out.println("Hi Nasar");
+    System.out.println("Hi");
 
  }
 
