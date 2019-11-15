@@ -4,7 +4,6 @@ public class Github {
  
     System.out.println("Hello Agni");
     System.out.println("Hi Nasar");
-    System.out.println("Hi");
 
  }
 
